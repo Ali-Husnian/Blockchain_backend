@@ -1,0 +1,24 @@
+{
+  "name": "blockchain_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ali-Husnian/Blockchain_backend.git"
+  },
+  "keywords": [
+    "cpypto",
+    "block",
+    "chain",
+    "backend"
+  ],
+  "author": "alihusnain",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
